@@ -1,0 +1,17 @@
+D:\wpf\MVVM_Sample\MVVM_Sample\bin\Debug\MVVM_Sample.exe.config
+D:\wpf\MVVM_Sample\MVVM_Sample\bin\Debug\MVVM_Sample.exe
+D:\wpf\MVVM_Sample\MVVM_Sample\bin\Debug\MVVM_Sample.pdb
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\View\MainWindow.g.cs
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\App.g.cs
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample_MarkupCompile.cache
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample_MarkupCompile.lref
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\View\MainWindow.baml
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.g.resources
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.Properties.Resources.resources
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.csproj.GenerateResource.cache
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.csproj.CoreCompileInputs.cache
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.exe
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.pdb
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\UserControl\ListView.g.cs
+D:\wpf\MVVM_Sample\MVVM_Sample\obj\Debug\UserControl\ListView.baml
